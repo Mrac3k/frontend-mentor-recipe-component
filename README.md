@@ -23,8 +23,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-recipe-card-using-bem-and-css-variables-7aSgzHtmrt]
-- Live Site URL: [https://mrac3k.github.io/frontend-mentor-recipe-component/]
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-recipe-card-using-bem-and-css-variables-7aSgzHtmrt)
+- Live Site URL: [Solution](https://mrac3k.github.io/frontend-mentor-recipe-component/)
 
 ## My process
 
